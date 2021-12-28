@@ -16,7 +16,7 @@ def main() :
 	play()
 
 
-# my attempt, upon being introduced to the game rules
+# my first attempt, upon being introduced to the game rules
 def play() :
 	current = 1
 	while(current <= maximum) :
